@@ -8,8 +8,8 @@ Create css grid lines.
  
 
 
-![svg-grid lines](https://s19.postimg.io/dzicn9p7l/svg_grid_colors.png) 
-![svg-grid colors](https://s19.postimg.io/5iiucckip/svg_grid_lines.png) 
+![svg-grid lines](http://lingtalfi.com/img/universe/SvgGridGenerator/svg-grid-colors.png)
+![svg-grid colors](http://lingtalfi.com/img/universe/SvgGridGenerator/svg-grid-lines.png)
 
 
 SvgGridGenerator is part of the [universe framework](https://github.com/karayabin/universe-snapshot).
