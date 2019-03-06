@@ -1,6 +1,6 @@
 <?php
 
-namespace SvgGridGenerator;
+namespace Ling\SvgGridGenerator;
 
 /*
  * LingTalfi 2016-09-04

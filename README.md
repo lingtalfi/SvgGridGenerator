@@ -19,7 +19,7 @@ Install
 ==========
 Using the [uni](https://github.com/lingtalfi/universe-naive-importer) command.
 ```bash
-uni import SvgGridGenerator
+uni import Ling/SvgGridGenerator
 ```
 
 If you want to experiment/create a css grid framework,
@@ -44,7 +44,7 @@ To generate a grid, use the following script, or an equivalent one:
 
 
 header("content-type: text/plain");
-use SvgGridGenerator\SvgGridGenerator;
+use Ling\SvgGridGenerator\SvgGridGenerator;
 
 require_once "bigbang.php"; // start the local universe (https://github.com/lingtalfi/Observer/blob/master/article/article.planetReference.eng.md)
 
